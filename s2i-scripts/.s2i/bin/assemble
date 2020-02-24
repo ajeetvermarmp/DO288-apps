@@ -1,1 +1,5 @@
+#!/bin/bash
+echo "--- doing something before the build"
+/usr/libexec/s21/assemble
 echo "Page Created by ajeet Verma" >> ./ajeet.html
+
