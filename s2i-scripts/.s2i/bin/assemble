@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "-----start from assembling"
-/usr/libexec/s2i
+/usr/libexec/s2i/assemble
 DATE=`date "+%b %d, %y @ %H:%M %p"`
 echo "creating page"
 echo "Page build on $DATE" >> ./info.html
