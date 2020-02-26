@@ -3,4 +3,4 @@ echo "----=====suru ho raha h====="
 /usr/libexec/s2i/assemble
 
 DATE=`date "+%b %d, %Y @ %H:%M %p"`
-echo page bilde on $DATE" >> ./info.html
+echo "page bilde on $DATE" >> ./info.html
